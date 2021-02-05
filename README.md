@@ -1,7 +1,9 @@
-This project is just for learning purpose.
+### Practice: Creact Reactjs app without using create-react-app.
 
-I have create reactjs app without create-react-app. I have used
+## I have used
 
-webpack: to bundle the files
-babel: to transpile the js to older versions
-expressjs: to serve static build files
+# webpack: to bundle the files
+
+# babel: to transpile the js to older versions
+
+# expressjs: to serve static build files
